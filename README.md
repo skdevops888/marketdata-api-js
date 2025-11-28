@@ -29,7 +29,7 @@ Working demos are available for web browser and Node.js environments. Please ref
 
 ### Package Managers
 
-This library has been published to NPM as [@barchart/marketdata-api-js](https://www.npmjs.com/package/@barchart/marketdata-api-js). Install as follows:
+This library has been a published to NPM as [@barchart/marketdata-api-js](https://www.npmjs.com/package/@barchart/marketdata-api-js). Install as follows:
 
  ```sh
  npm install @barchart/marketdata-api-js -S
